@@ -2,7 +2,7 @@
 
 ## Has new updates to my Natural Language Bot lead to more Customer Retention and Satisfaction? 
 
-_Keywords_ - A/B testing, NLP, Sentiment Analysis, Transformers, Linear Discriminant Analysis (LDA), ChatGPT, NLTK, Python, Pandas, Matplotlib <br>
+_Keywords_ - A/B testing, Hypothesis testing, NLP, Sentiment Analysis, Transformers, Linear Discriminant Analysis (LDA), ChatGPT, NLTK, Python, Pandas, Matplotlib <br>
 
 ### Context  
 
@@ -56,3 +56,9 @@ All the datasets used in the notebook could be found here - https://pitt-my.shar
 4. For e-commerce scenario, additional information like how long a session lasted AND how many users who visited the website ended up chatting with the bot and end up with certain _purchase_, we could quantify the quality of user engagement and its impact on revenue generation. 
 
 **Users visiting website (100%) > Users interacting with chatbot (40%)  > Users performing desirable action (generating revenue)(10%)**
+
+![](ex3.png) <br>
+![](ex4.png) <br>
+![](ex5.png) <br>
+![](ex6.png) <br>
+
