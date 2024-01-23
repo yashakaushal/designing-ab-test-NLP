@@ -38,6 +38,8 @@ This data is retrieved from shareGPT platform in json format with 3 columns -
 This study goes one step further on recently published work on this dataset (10th Dec 2023) - [Early ChatGPT User Portrait through the Lens of Data](https://arxiv.org/pdf/2312.10078.pdf) <br>
 Authors found GPT to be POSITIVE (>80%), NEUTRAL (8%) and NEGATIVE (12%) even when given with negative prompts, suggesting overall positive tone of this Natural Language Bot. <br>
 
+All the datasets used in the notebook could be found here - https://pitt-my.sharepoint.com/:f:/g/personal/yak39_pitt_edu/EvsVKJeRcnRAm82vqlrlrs8Bpj9ifBUwdzTAn0J0AVRMMw?e=wyT4Er 
+
 ### A/B testing (historic) 
 
 1. We perform sentiment analysis on **A-data** and **B-data** to get the % of conversations with high-confidence positive user-experience (sentiment) before and after the bot upgrade.
