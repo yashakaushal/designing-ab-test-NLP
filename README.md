@@ -57,6 +57,7 @@ All the datasets used in the notebook could be found here - https://pitt-my.shar
 
 **Users visiting website (100%) > Users interacting with chatbot (40%)  > Users performing desirable action (generating revenue)(10%)**
 
+### Demo images (details in the notebook)
 ![](ex3.png) <br>
 ![](ex4.png) <br>
 ![](ex5.png) <br>
