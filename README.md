@@ -50,8 +50,8 @@ All the datasets used in the notebook could be found here - https://pitt-my.shar
 
 ### NOTE - 
 
-1. In _real-time_ A/B testing, we would launch two different versions we want to test SIMULTANEOUSLY to account for external factors like seasonality.
-2. For the sake of the study, we will assume that for A-data and B-data only thing that changes is the new upgrade to the bot (3.5 --> 4)
+1. In _real-time_ A/B testing, we would launch two different versions we want to test (A and B) SIMULTANEOUSLY to account for external factors like seasonality and monitor the results over SAME PERIOD OF TIME. 
+2. For the sake of the study, we will assume that for A-data and B-data only thing that changes is the new upgrade to the bot (3.5 --> 4). To account for the newness of product, we took TWICE the period (6 months) for GPT-3.5 version than GPT-4 version (3 months). 
 3. The shareGPT dataset might not be representative of the entire userbase
 4. For e-commerce scenario, additional information like how long a session lasted AND how many users who visited the website ended up chatting with the bot and end up with certain _purchase_, we could quantify the quality of user engagement and its impact on revenue generation. 
 
